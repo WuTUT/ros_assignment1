@@ -1,0 +1,2 @@
+rosvision
+-DCATKIN_DEVEL_PREFIX=/home/wu/rosopencv/devel -DCMAKE_INSTALL_PREFIX=/home/wu/rosopencv/install -G Unix Makefiles

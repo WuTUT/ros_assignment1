@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+9f99baf73e39751b3a1a64f202473c23 /home/wu/rosopencv/devel/include/rosvision/ROI.h
+5f6921910c140701b2b2c9698d8969c7 /home/wu/rosopencv/devel/lib/python2.7/dist-packages/rosvision/msg/_ROI.py
+1fceb1c914b400e8b6a416bb9b936a04 /home/wu/rosopencv/devel/lib/python2.7/dist-packages/rosvision/msg/__init__.py
+4261022e05a9928c45190d7cca1dc96c /home/wu/rosopencv/devel/share/common-lisp/ros/rosvision/msg/ROI.lisp
+7790c8087200e0c4712c4bf0c30f63a0 CMakeFiles/clean_test_results
+ae56b7074bc17df49518a5f7e9d467ae rosvision/CMakeFiles/_rosvision_generate_messages_check_deps_ROI
+ce5b627393270500f35c31117d30b385 rosvision/CMakeFiles/rosvision_generate_messages_cpp
+ce5b627393270500f35c31117d30b385 rosvision/CMakeFiles/rosvision_generate_messages_lisp
+ce5b627393270500f35c31117d30b385 rosvision/CMakeFiles/rosvision_generate_messages_py
