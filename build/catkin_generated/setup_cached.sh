@@ -7,6 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CPATH="/home/wu/rosopencv/devel/include:$CPATH"
 export PWD="/home/wu/rosopencv/build"
-export PYTHONPATH="/home/wu/rosopencv/devel/lib/python2.7/dist-packages:$PYTHONPATH"

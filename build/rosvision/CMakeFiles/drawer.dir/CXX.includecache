@@ -6,22 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/wu/rosopencv/devel/include/rosvision/ROI.h
-string
--
-vector
--
-map
--
-ros/types.h
--
-ros/serialization.h
--
-ros/builtin_message_traits.h
--
-ros/message_operations.h
--
-
 /home/wu/rosopencv/src/rosvision/src/drawer.cpp
 ros/ros.h
 /home/wu/rosopencv/src/rosvision/src/ros/ros.h

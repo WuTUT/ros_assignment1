@@ -20,7 +20,7 @@ int main(int argc, char** argv)
   image_transport::Publisher pub = it.advertise("camera/image", 1);
   ros::NodeHandle n;
   ros::Publisher chatter_pub = n.advertise<rosvision::ROI>("chatter", 1000);
-    cv::VideoCapture cap("/home/wu/fujian3.avi");
+    cv::VideoCapture cap("/host/feijishipin/fujian3.avi");
     cv::Mat frame;
     cv::Mat roi;
     
